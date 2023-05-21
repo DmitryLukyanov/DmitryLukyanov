@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, My name is Dima 👋
 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/dmitry-lukyanov-51550538/">LinkedIn</a>
 
 <h1>⚙️ GitHub Analytics</h1>
 
