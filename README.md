@@ -5,8 +5,6 @@
 
 <div>
 
-- 🔭 I’m currently learning ![CUDA](https://img.shields.io/badge/-nVIDIA-bd93f9?style=flat&logo=nVIDIA&logoColor=00599C) CUDA
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryLukyanov&theme=ocean_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryLukyanov&theme=ocean_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryLukyanov&theme=ocean_dark)
