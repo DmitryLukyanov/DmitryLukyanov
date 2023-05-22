@@ -1,4 +1,4 @@
-<h1> Hi there, My name is Dima 👋</h1>
+<h1> Hi there 👋</h1>
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/dmitry-lukyanov-51550538/">LinkedIn</a>
 <!--
