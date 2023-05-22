@@ -1,7 +1,7 @@
 <h1> Hi there, My name is Dima 👋</h1>
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/dmitry-lukyanov-51550538/">LinkedIn</a>
-
+<!--
 <h1>⚙️ GitHub Analytics</h1>
 
 <div>
@@ -10,7 +10,7 @@
 
 </div>
 
-<!--
+
 **DmitryLukyanov/DmitryLukyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
